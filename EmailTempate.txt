@@ -1,0 +1,13 @@
+Dear {!Registration__c.Guardian__c},
+
+We have received notice that your camper has a nut allergy. We at The Campground have an action plan in place to help prevent any reactions during the camper's time at camp.
+
+1. A nut free menu
+2. Disclosure to fellow guardians about sending snacks with their campers
+3. Response trained counselors with quick access to Epipens 
+4. Safety and respect introduction at the start of the camp program
+
+Thank you for working with us to ensure your camper's best experience at The Campground,
+
+Sincerely,
+{!Registration__c.CreatedBy}
