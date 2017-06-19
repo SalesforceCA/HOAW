@@ -1,0 +1,1 @@
+IF ( Registered_Campers__c > 25, IMAGE ("/img/samples/light_red.gif", "Red"), IMAGE ("/img/samples/light_green.gif", "Green") )
