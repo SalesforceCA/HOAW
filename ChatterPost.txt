@@ -1,1 +1,0 @@
-@[{![Registration__c].Camp_Program__c.OwnerId}] please note that {![Registration__c].Camper__c.FirstName} has a nut allergy. We have notified their guardian {![Registration__c].Guardian__c.FirstName} of our action plan.
