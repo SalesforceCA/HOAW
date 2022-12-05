@@ -1,0 +1,10 @@
+Dear {{{Registration__c.Camper__c}}},
+
+I am reaching out to thank you for registering to {{{Registration__c.Camp_Program__c}}}.
+
+Please feel free to share the program with other campers.
+
+Thank you again, and have fun at the program!
+
+Sincerely,
+{{{Sender.Name}}}
